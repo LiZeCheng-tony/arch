@@ -10,6 +10,8 @@
 " 3.执行,,i进行插件安装
 " Plug 'iamcco/mathjax-support-for-mkdp'
  Plug 'Svtter/ACM.vim'
+ Plug 'johngrib/vim-game-code-break'
+ Plug 'vim/killersheep'
 " Plug 'Yggdroot/indentLine'
 " Plug 'gorodinskiy/vim-coloresque'
 " Plug 'vim-scripts/DoxygenToolkit.vim'
