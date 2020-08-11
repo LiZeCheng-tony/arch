@@ -9,8 +9,6 @@
 " 2.执行,s重新加载vim配置
 " 3.执行,,i进行插件安装
 " Plug 'iamcco/mathjax-support-for-mkdp'
- Plug 'iamcco/markdown-preview.vim'
- Plug 'w0rp/ale'
  Plug 'Svtter/ACM.vim'
 " Plug 'Yggdroot/indentLine'
 " Plug 'gorodinskiy/vim-coloresque'
